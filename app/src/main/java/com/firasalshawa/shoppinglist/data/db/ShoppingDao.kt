@@ -1,7 +1,8 @@
-package com.firasalshawa.shoppinglist
+package com.firasalshawa.shoppinglist.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.firasalshawa.shoppinglist.data.db.entities.ShoppingItem
 
 @Dao
 interface ShoppingDao {
