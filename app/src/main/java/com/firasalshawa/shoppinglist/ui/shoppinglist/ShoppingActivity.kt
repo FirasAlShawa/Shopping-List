@@ -1,7 +1,8 @@
-package com.firasalshawa.shoppinglist
+package com.firasalshawa.shoppinglist.ui.shoppinglist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.firasalshawa.shoppinglist.R
 
 class ShoppingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
